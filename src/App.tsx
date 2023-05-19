@@ -1,15 +1,21 @@
 import React from 'react';
-import CardView from "./Cards/Cards";
+import CardView from "./CardView/CardView";
 import './cards.css';
 import './App.css';
+import CardDeck from "./lib/CardDeck";
 
 
 function App() {
+const cardDeck = new CardDeck();
+    console.log(cardDeck.deck);
 
 
-  return (
+    return (
     <div className="App">
-      <CardView rank="K"  suit="diams"/>
+        <div className="playingCards faceImages">
+            <CardView rank="K"  suit="diams"/>
+        </div>
+
     </div>
   );
 }
@@ -17,12 +23,3 @@ function App() {
 export default App;
 
 
-//if (suit === diams) {
-//         diams = '♦'
-//     } if (suit === hearts) {
-//         hearts = '♥'
-//     } if (suit === clubs) {
-//         clubs = '♣'
-//     } else {
-//         spades = '♠'
-//     }
