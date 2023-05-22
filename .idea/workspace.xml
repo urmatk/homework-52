@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6541f2-b5da-4904-8985-bc95d71f0b73" name="Changes" comment="Сделал первый уровень">
+    <list default="true" id="bc6541f2-b5da-4904-8985-bc95d71f0b73" name="Changes" comment="Сделал второй уровень">
+      <change afterPath="$PROJECT_DIR$/src/lib/PokerHand.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cards/Cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardView/CardView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardView/CardView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardView/CardView.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/user/urmat/homework-49",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/user/urmat/components-demo/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/urmat/homework-51/src/App.tsx&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/user/urmat/components-demo/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -69,6 +73,10 @@
       <workItem from="1684399639041" duration="609000" />
       <workItem from="1684484975349" duration="389000" />
       <workItem from="1684485561516" duration="16292000" />
+      <workItem from="1684504958720" duration="2491000" />
+      <workItem from="1684573008971" duration="11209000" />
+      <workItem from="1684677543839" duration="5110000" />
+      <workItem from="1684753258825" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Создал шарик с случайными числами">
       <created>1684315095358</created>
@@ -91,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684492294778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сделал второй уровень">
+      <created>1684507254529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507254529</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +127,7 @@
     <MESSAGE value="Создал шарик с случайными числами" />
     <MESSAGE value="Добавил стилей, и реализовал чисел по возрастанию от меньшего к большему." />
     <MESSAGE value="Сделал первый уровень" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал первый уровень" />
+    <MESSAGE value="Сделал второй уровень" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал второй уровень" />
   </component>
 </project>
